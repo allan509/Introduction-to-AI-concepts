@@ -1,6 +1,6 @@
 # Introduction to AI Concepts
 
-A collaborative guide by **Allan, Mary, Francis, Susan**.
+A collaborative guide by **Allan, Mary, Francis, Susan, and Wambui**.
 
 ## Table of Contents
  1. Introduction
