@@ -16,7 +16,6 @@ From Netflix's personalized movies and shows to voice assistants such as Siri an
 ## Neural Networks
 <!-- [Francis] will write this section -->
 ## Natural Language Processing (NLP)
-## Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables
 computers to understand, interpret, and generate human language in a meaningful way.
