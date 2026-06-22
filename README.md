@@ -10,7 +10,11 @@ A collaborative guide by **Allan, Mary, Francis, Sarah, and Wambui**.
  5. Convolutional Neural Networks
 
 ## Introduction (24/06/2024), edited 
-From Netflix's personalized movies and shows to voice assistants such as Siri and Alexa, Artificial Intelligence (AI) seems to be revolutionizing the world around us. This is a co-created guide that facilitates the understanding of the three core concepts of AI which include Machine Learning, Neural Network, and Natural Language Processing (NLP). At the completion of this guide, I should have a strong grasp of the fundamental concepts that are the backbone of the current wave of AI innovation.
+From Netflix's personalized movies and shows to voice assistants such as Siri and Alexa, Artificial Intelligence (AI) seems to be revolutionizing the world around us. This is a co-created guide that facilitates the understanding of the three core concepts of AI which include,
+1. Machine Learning
+2. Neural Network
+3. Natural Language Processing (NLP). 
+At the completion of this guide, I should have a strong grasp of the fundamental concepts that are the backbone of the current wave of AI innovation.
 ## Machine Learning
 <!-- [Mary] will write this section -->
 ## Neural Networks
