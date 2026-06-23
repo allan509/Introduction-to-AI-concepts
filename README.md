@@ -87,4 +87,30 @@ making it an exciting area for both researchers and practitioners.
 <!-- [Wambui] will write this section -->
 
 ## Deep Learning
-<!-- [Simon] will write this section -->
+Deep learning is a branch of AI that teaches computers to learn patterns from data using structures called neural networks.
+Basically,Deep learning teaches computers to learn from examples instead of being explicitly programmed.
+
+### How Deep Learning Learns
+Suppose we want to predict house prices.
+Step 1: Feed data
+Size → 1200
+Bedrooms → 3
+Location → Urban
+↓
+Prediction:$60,000
+Actual:$75,000
+Error:15,000
+↓
+The model adjusts itself.
+
+↓
+
+Repeats thousands of times.
+
+This process is called:
+
+Forward Propagation;Make prediction
+Loss Function;Measure error
+Backpropagation;Learn from error
+Gradient Descent;Update weights
+
