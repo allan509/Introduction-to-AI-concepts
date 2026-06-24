@@ -7,8 +7,9 @@ A collaborative guide by **Allan, Mary, Francis, Sarah, Wambui, and Simon**.
  2. Machine-learning
  3. Neural Networks
  4. Natural language processing_NPL
- 5. Convolutional Neural Networks
+ 5. Convolutional Neural Networks (CNN)
  6. Deep learning
+ 7. Large Language Models (LMM)
  
 
 ## Introduction (24/06/2024), edited 
@@ -17,6 +18,8 @@ From Netflix's personalized movies and shows to voice assistants such as Siri an
 2. Neural Network
 3. Natural Language Processing (NLP)
 4. Deep learning
+5. CNN
+6. LLM
 
 At the completion of this guide, I should have a strong grasp of the fundamental concepts that are the backbone of the current wave of AI innovation.
 ## Machine Learning
@@ -151,3 +154,5 @@ Loss Function;Measure error
 Backpropagation;Learn from error
 Gradient Descent;Update weights
 
+## Large Language Models
+<!-- [Peter] will write this section -->
