@@ -72,13 +72,19 @@ Medical diagnosis
 
 Neural networks are a major part of machine learning and modern AI systems 
 24/06/2026.
+### Neural Network Structure
+
+Input Layer
+   ↓
+Hidden Layer
+   ↓
+Output Layer
 
 ## Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables
 computers to understand, interpret, and generate human language in a meaningful way.
 It sits at the intersection of linguistics, computer science, and machine learning.
-
 ### How NLP Works
 
 NLP systems process text or speech through a pipeline of steps:
