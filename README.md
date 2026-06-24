@@ -223,6 +223,40 @@ May struggle when images differ significantly from those seen during training.
 CNN technology has significant potential in Kenya across multiple sectors. Farmers can use smartphone applications to identify crop diseases affecting maize, coffee, tea, and tomatoes by simply taking photographs of infected plants. Healthcare facilities, especially in rural areas, can use CNN-powered diagnostic systems to analyze medical images where specialist doctors are scarce. Wildlife conservation organizations can apply CNNs to identify and track animals using camera traps, helping protect endangered species. Financial institutions can use CNNs to verify identity documents and improve biometric security systems. Additionally, traffic management authorities can use CNNs to monitor roads, detect congestion, and improve urban transportation systems. 
 
 CNNs remain one of the most important technologies in modern artificial intelligence and computer vision. Their ability to automatically learn visual features has revolutionized industries such as healthcare, agriculture, transportation, manufacturing, security, and environmental conservation, making them an essential component of today's intelligent systems.
+CNN Architecture Diagram
+
+Input Image
+     │
+     ▼
+Convolution Layer
+(Detects edges, shapes, textures)
+     │
+     ▼
+ReLU Activation
+(Introduces non-linearity)
+     │
+     ▼
+Pooling Layer
+(Reduces image size and keeps important features)
+     │
+     ▼
+Convolution + Pooling
+(Repeated several times)
+     │
+     ▼
+Fully Connected Layer
+(Combines learned features)
+     │
+     ▼
+Output Layer
+(Classification Result)
+e.g., Cat | Dog | Car
+
+Example: Image Recognition
+
+A CNN receives a photo of a cat as input. The convolution layers detect edges, ears, whiskers, and fur patterns. Pooling layers reduce unnecessary information while preserving key features. The fully connected layer combines these features and the output layer classifies the image as "Cat" with a high probability.
+
+This process allows CNNs to accurately recognize objects in photos, medical images, security systems, and self-driving vehicles.
 
 ## Deep Learning
 Deep learning is a branch of AI that teaches computers to learn patterns from data using structures called neural networks.
