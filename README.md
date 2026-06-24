@@ -24,7 +24,42 @@ Machine learning is a subset of artificial intelligence that enables computer sy
 
 
 ## Neural Networks
-<!-- [Francis] will write this section -->
+
+### Neural Networks and How They Work
+
+Neural networks are a type of Artificial Intelligence (AI) inspired by the human brain. They help computers learn patterns and make decisions from data.
+
+### A neural network has three main parts:
+
+Input Layer – Receives information such as images, numbers, or text.
+Hidden Layers – Processes the information by finding patterns and relationships.
+Output Layer – Produces the final result or prediction.
+
+### How neural networks work:
+
+Data is entered into the input layer.
+The hidden layers analyze the data using mathematical calculations.
+The network makes a prediction.
+The prediction is compared with the correct answer.
+Errors are calculated and the network adjusts itself to improve accuracy.
+This process repeats many times until performance improves.
+
+### Example:
+If a neural network is trained to recognize cats, it studies thousands of images and learns features like ears, eyes, and shapes until it can identify a cat correctly.
+
+### Neural networks are used in:
+
+Image recognition
+Speech recognition
+Chatbots
+Recommendation systems
+Self-driving cars
+Medical diagnosis
+
+Neural networks are a major part of machine learning and modern AI systems 
+24/06/2026.
+
+
 ## Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables
