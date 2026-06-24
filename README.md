@@ -150,8 +150,6 @@ name = input("What is your name? ")
 print(f"Hello, {name}! Welcome to Python.")
 
 
-## Convolutional Neural Networks
-<!-- [Wambui] will write this section -->
 ## Convolutional Neural Networks 24/06/2026
 
 Convolutional Neural Networks (CNNs) are a specialized type of artificial neural network designed to analyze visual data such as images and videos. Unlike traditional neural networks, CNNs automatically learn important features from images without requiring manual feature extraction. They use small filters (also called kernels) that scan across an image to detect patterns such as edges, corners, textures, shapes, and eventually complete objects.
