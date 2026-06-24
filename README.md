@@ -29,6 +29,16 @@ Machine learning is a subset of artificial intelligence that enables computer sy
 
 ## Neural Networks
 
+Neural networks are machine learning models inspired by the human brain.
+
+### Components
+- Input Layer
+- Hidden Layer
+- Output Layer
+
+### Advantages
+- Learns patterns
+- Improves predictions
 ### Neural Networks and How They Work
 
 Neural networks are a type of Artificial Intelligence (AI) inspired by the human brain. They help computers learn patterns and make decisions from data.
@@ -62,7 +72,6 @@ Medical diagnosis
 
 Neural networks are a major part of machine learning and modern AI systems 
 24/06/2026.
-
 
 ## Natural Language Processing (NLP)
 
