@@ -71,9 +71,13 @@ Neural networks are a major part of machine learning and modern AI systems
 ### Neural Network Structure
 
 Input Layer
+   
    ↓
+   
 Hidden Layer
+   
    ↓
+
 Output Layer
 
 ## Natural Language Processing (NLP)
@@ -226,28 +230,42 @@ CNNs remain one of the most important technologies in modern artificial intellig
 CNN Architecture Diagram
 
 Input Image
+   
      │
      ▼
+
+
 Convolution Layer
 (Detects edges, shapes, textures)
+    
      │
      ▼
+
 ReLU Activation
 (Introduces non-linearity)
+   
      │
      ▼
+
 Pooling Layer
 (Reduces image size and keeps important features)
+  
      │
      ▼
+
+
 Convolution + Pooling
 (Repeated several times)
+  
      │
      ▼
+
 Fully Connected Layer
 (Combines learned features)
+     
      │
      ▼
+
 Output Layer
 (Classification Result)
 e.g., Cat | Dog | Car
