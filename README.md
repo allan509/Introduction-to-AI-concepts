@@ -20,7 +20,9 @@ From Netflix's personalized movies and shows to voice assistants such as Siri an
 
 At the completion of this guide, I should have a strong grasp of the fundamental concepts that are the backbone of the current wave of AI innovation.
 ## Machine Learning
-<!-- [Mary] will write this section -->
+Machine learning is a subset of artificial intelligence that enables computer systems to learn fron data and identify patterns autonomously. It is divided into supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning. In fraud detection, banks use machine learning to scan millions of credit card transactions per second, instantly flagging unusual purchases to prevent fraud.
+
+
 ## Neural Networks
 <!-- [Francis] will write this section -->
 ## Natural Language Processing (NLP)
