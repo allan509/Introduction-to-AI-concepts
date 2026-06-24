@@ -155,4 +155,8 @@ Backpropagation;Learn from error
 Gradient Descent;Update weights
 
 ## Large Language Models
-<!-- [Peter] will write this section -->
+
+These are advanced computer programs designed to understand, process, and generate human language. They are trained on vast amounts of text data, enabling them to perform tasks such as answering questions, summarizing information, translating languages, and generating written content. LLMs are a subset of Artificial Intelligence (AI), specifically within the fields of Machine Learning (ML) and Natural Language Processing (NLP). They contribute to AI by allowing machines to communicate with humans in a natural and meaningful way.
+Some common examples of Large Language Models include ChatGPT, Gemini, and Claude. ChatGPT, developed by OpenAI, is widely used for answering questions, assisting with learning, content creation, and programming support. Gemini, developed by Google, helps users with research, writing, problem-solving, and information retrieval. Claude, developed by Anthropic, is designed to assist with document analysis, customer service, and professional workplace tasks.
+In real-life applications, LLMs are used in virtual assistants, customer support chatbots, educational platforms, language translation services, and content-generation tools. These applications help individuals and organizations improve productivity, access information quickly, and communicate more effectively.
+
