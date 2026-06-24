@@ -123,6 +123,12 @@ from vast amounts of text, enabling remarkable performance across nearly all NLP
 NLP is one of the fastest-moving fields in AI, with new breakthroughs emerging regularly —
 making it an exciting area for both researchers and practitioners.
 
+##Example of a simple Python code
+
+name = input("What is your name? ")
+print(f"Hello, {name}! Welcome to Python.")
+
+
 ## Convolutional Neural Networks
 <!-- [Wambui] will write this section -->
 
