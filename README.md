@@ -1,25 +1,22 @@
 # Introduction to AI Concepts
 
-A collaborative guide by **Allan, Mary, Francis, Sarah, Wambui, and Simon**.
+A collaborative guide by **Allan, Mary, Francis, Sarah, Wambui, Simon and Peter**.
 
 ## Table of Contents
- 1. Introduction
- 2. Machine-learning
- 3. Neural Networks
- 4. Natural language processing_NPL
- 5. Convolutional Neural Networks (CNN)
- 6. Deep learning
- 7. Large Language Models (LMM)
- 
+1. [Introduction](#introduction)
+2. [Machine Learning](#machine-learning)
+3. [Neural Networks](#neural-networks)
+4. [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+5. [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
+6. [Deep Learning](#deep-learning)
+7. [Large Language Models (LLM)](#large-language-models-llm)
+
 
 ## Introduction (24/06/2024), edited 
 From Netflix's personalized movies and shows to voice assistants such as Siri and Alexa, Artificial Intelligence (AI) seems to be revolutionizing the world around us. This is a co-created guide that facilitates the understanding of the three core concepts of AI which include,
-1. Machine Learning
-2. Neural Network
-3. Natural Language Processing (NLP)
-4. Deep learning
-5. CNN
-6. LLM
+
+![AI concepts Diagram](AI-concepts-Image.png)
+*Figure 1: Overview of AI concepts covered in this guide*
 
 At the completion of this guide, I should have a strong grasp of the fundamental concepts that are the backbone of the current wave of AI innovation.
 ## Machine Learning
@@ -28,6 +25,16 @@ Machine learning is a subset of artificial intelligence that enables computer sy
 
 ## Neural Networks
 
+Neural networks are machine learning models inspired by the human brain.
+
+### Components
+- Input Layer
+- Hidden Layer
+- Output Layer
+
+### Advantages
+- Learns patterns
+- Improves predictions
 ### Neural Networks and How They Work
 
 Neural networks are a type of Artificial Intelligence (AI) inspired by the human brain. They help computers learn patterns and make decisions from data.
@@ -61,14 +68,19 @@ Medical diagnosis
 
 Neural networks are a major part of machine learning and modern AI systems 
 24/06/2026.
+### Neural Network Structure
 
+Input Layer
+   ↓
+Hidden Layer
+   ↓
+Output Layer
 
 ## Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables
 computers to understand, interpret, and generate human language in a meaningful way.
 It sits at the intersection of linguistics, computer science, and machine learning.
-
 ### How NLP Works
 
 NLP systems process text or speech through a pipeline of steps:
@@ -96,6 +108,11 @@ NLP systems process text or speech through a pipeline of steps:
 | spaCy | Python | Production NLP pipelines |
 | Hugging Face Transformers | Python | State-of-the-art models |
 | Stanford NLP | Java/Python | Academic research |
+
+## Example of a python code
+
+name = input("What is your name? ")
+print(f"Hello, {name}! Welcome to Python.")
 
 ### Real-World Applications
 
@@ -131,6 +148,81 @@ print(f"Hello, {name}! Welcome to Python.")
 
 ## Convolutional Neural Networks
 <!-- [Wambui] will write this section -->
+## Convolutional Neural Networks 24/06/2026
+
+Convolutional Neural Networks (CNNs) are a specialized type of artificial neural network designed to analyze visual data such as images and videos. Unlike traditional neural networks, CNNs automatically learn important features from images without requiring manual feature extraction. They use small filters (also called kernels) that scan across an image to detect patterns such as edges, corners, textures, shapes, and eventually complete objects.
+
+A CNN is made up of several layers that work together to process image data:
+
+Convolutional Layer: Applies filters to detect features like edges, lines, and textures.
+
+Activation Layer (ReLU): Introduces non-linearity, allowing the network to learn complex patterns.
+
+Pooling Layer: Reduces the size of feature maps while preserving important information, making computation faster and reducing overfitting.
+
+Fully Connected Layer: Combines all extracted features to classify the image or make predictions.
+
+Output Layer: Produces the final prediction, such as identifying the object in an image.
+
+
+CNNs are highly effective because they can automatically recognize increasingly complex features as more layers are added. Early layers detect simple patterns, while deeper layers identify complete objects such as faces, vehicles, or animals.
+
+### Advantages of CNNs
+
+Automatically learn important image features without manual programming.
+
+Achieve high accuracy in image classification and object detection.
+
+Handle large image datasets efficiently.
+
+Reduce the number of parameters compared to traditional neural networks through parameter sharing.
+
+Can be trained for many different computer vision tasks.
+
+
+### Limitations of CNNs
+
+Require large amounts of labeled training data.
+
+Training can be computationally expensive and often requires powerful GPUs.
+
+Performance depends on the quality and diversity of the training dataset.
+
+May struggle when images differ significantly from those seen during training.
+
+
+### Key Uses of CNNs
+
+1. Image Recognition: Identifying objects in photographs, such as people, animals, vehicles, and buildings. This technology is widely used in photo organization applications like Google Photos.
+
+
+2. Medical Imaging: Detecting diseases such as cancer, pneumonia, fractures, and brain abnormalities from X-rays, CT scans, and MRI images, helping doctors make faster and more accurate diagnoses.
+
+
+3. Facial Recognition: Used in smartphone face unlock systems, airport security, surveillance systems, and social media platforms for automatic photo tagging.
+
+
+4. Self-Driving Cars: Detecting traffic signs, road lanes, pedestrians, cyclists, and other vehicles to enable safe autonomous driving.
+
+
+5. Security and Surveillance: Monitoring public spaces, detecting suspicious activities, and identifying unauthorized individuals.
+
+
+6. Agriculture: Identifying crop diseases, estimating crop yields, detecting pests, and monitoring plant health using drone or smartphone images.
+
+
+7. Manufacturing: Inspecting products for defects during production, improving quality control while reducing human error.
+
+
+8. Retail: Supporting automated checkout systems, inventory management, and customer behavior analysis.
+
+
+
+### CNN Applications in Kenya
+
+CNN technology has significant potential in Kenya across multiple sectors. Farmers can use smartphone applications to identify crop diseases affecting maize, coffee, tea, and tomatoes by simply taking photographs of infected plants. Healthcare facilities, especially in rural areas, can use CNN-powered diagnostic systems to analyze medical images where specialist doctors are scarce. Wildlife conservation organizations can apply CNNs to identify and track animals using camera traps, helping protect endangered species. Financial institutions can use CNNs to verify identity documents and improve biometric security systems. Additionally, traffic management authorities can use CNNs to monitor roads, detect congestion, and improve urban transportation systems. 
+
+CNNs remain one of the most important technologies in modern artificial intelligence and computer vision. Their ability to automatically learn visual features has revolutionized industries such as healthcare, agriculture, transportation, manufacturing, security, and environmental conservation, making them an essential component of today's intelligent systems.
 
 ## Deep Learning
 Deep learning is a branch of AI that teaches computers to learn patterns from data using structures called neural networks.
