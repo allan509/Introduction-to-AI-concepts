@@ -4,14 +4,14 @@
 A collaborative guide by **Allan, Mary, Francis, Sarah, Wambui, and Simon**.
 
 ## Table of Contents
- 1. Introduction
- 2. Machine-learning
- 3. Neural Networks
- 4. Natural language processing_NPL
- 5. Convolutional Neural Networks (CNN)
- 6. Deep learning
- 7. Large Language Models (LMM)
- 
+1. [Introduction](#introduction)
+2. [Machine Learning](#machine-learning)
+3. [Neural Networks](#neural-networks)
+4. [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+5. [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
+6. [Deep Learning](#deep-learning)
+7. [Large Language Models (LLM)](#large-language-models-llm)
+
 
 ## Introduction (24/06/2024), edited 
 From Netflix's personalized movies and shows to voice assistants such as Siri and Alexa, Artificial Intelligence (AI) seems to be revolutionizing the world around us. This is a co-created guide that facilitates the understanding of the three core concepts of AI which include,
