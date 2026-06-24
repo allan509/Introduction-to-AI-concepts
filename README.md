@@ -22,7 +22,18 @@ At the completion of this guide, I should have a strong grasp of the fundamental
 ## Machine Learning
 <!-- [Mary] will write this section -->
 ## Neural Networks
-<!-- [Francis] will write this section -->
+
+
+Neural networks are machine learning models inspired by the human brain.
+
+### Components
+- Input Layer
+- Hidden Layer
+- Output Layer
+
+### Advantages
+- Learns patterns
+- Improves predictions
 ## Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables
