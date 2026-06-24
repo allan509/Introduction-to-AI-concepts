@@ -96,6 +96,9 @@ NLP systems process text or speech through a pipeline of steps:
 | spaCy | Python | Production NLP pipelines |
 | Hugging Face Transformers | Python | State-of-the-art models |
 | Stanford NLP | Java/Python | Academic research |
+## Example of a python code
+name = input("What is your name? ")
+print(f"Hello, {name}! Welcome to Python.")
 
 ### Real-World Applications
 
