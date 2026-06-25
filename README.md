@@ -21,6 +21,14 @@ From Netflix's personalized movies and shows to voice assistants such as Siri an
 At the completion of this guide, I should have a strong grasp of the fundamental concepts that are the backbone of the current wave of AI innovation.
 ## Machine Learning
 Machine learning is a subset of artificial intelligence that enables computer systems to learn fron data and identify patterns autonomously. It is divided into supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning. In fraud detection, banks use machine learning to scan millions of credit card transactions per second, instantly flagging unusual purchases to prevent fraud.
+In personalised recommendations, streaming services like spotify and netflix use algorithms to annalyze one's past behaviour and suggest music or shows that one is likely to enjoy. 
+Traffic and route optimization: Navigation tools like Google Maps analyze anonymized GPS data from moving cars in real time to predict traffic conditions and calculate the fastest routes.
+
+|Supervised                 |Unsupervised              |Semi-supervised           |Reinforcement      |
+|---------------------------|--------------------------|--------------------------|-------------------|
+| Fully labeled data        | Fully unlabeled data     |labeled and unlabaled data| Interactive environments|
+| Predict future outcomes   | Discover hidden patterns | Improve learning accuracy| Maximize rewards    |
+| Spam detection            | Customer segmentation    | Medical image analyse    | Game AI[robotics]          |
 
 
 ## Neural Networks
