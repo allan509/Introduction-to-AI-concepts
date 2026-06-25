@@ -308,3 +308,12 @@ These are advanced computer programs designed to understand, process, and genera
 Some common examples of Large Language Models include ChatGPT, Gemini, and Claude. ChatGPT, developed by OpenAI, is widely used for answering questions, assisting with learning, content creation, and programming support. Gemini, developed by Google, helps users with research, writing, problem-solving, and information retrieval. Claude, developed by Anthropic, is designed to assist with document analysis, customer service, and professional workplace tasks.
 In real-life applications, LLMs are used in virtual assistants, customer support chatbots, educational platforms, language translation services, and content-generation tools. These applications help individuals and organizations improve productivity, access information quickly, and communicate more effectively.
 
+## limitations and challenges of LLMS
+### Ethical concerns
+LLMS can generate misleading,harmful,or inappropiate content if used irresponsibly.
+### Bias
+LLMs learn from large datasets that may contain social or cultural biases,which can affect their outputs.
+### Hallucinations
+LLMs sometimes provide information that sounds correct but is inaccurate or completely made up.
+### Environmental impact
+Training and learning Large Language Models requires a significant computing resources and energy consumption.
