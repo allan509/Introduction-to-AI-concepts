@@ -317,3 +317,12 @@ LLMs learn from large datasets that may contain social or cultural biases,which 
 LLMs sometimes provide information that sounds correct but is inaccurate or completely made up.
 ### Environmental impact
 Training and learning Large Language Models requires a significant computing resources and energy consumption.
+## Comparison of Major LLMs
+
+| LLM | Developer | Key Features | Strengths | Common Use Cases |
+|------|-----------|-------------|-----------|------------------|
+| ChatGPT | OpenAI | Conversational AI, coding assistance, content generation | Strong reasoning, coding support, and natural conversations | Chatbots, education, programming, content creation |
+| Gemini | Google | Multimodal capabilities, Google ecosystem integration | Strong web integration and multimodal understanding | Research, productivity, search assistance |
+| Claude | Anthropic | Long-context processing, safety-focused design | Handles large documents well and provides detailed responses | Document analysis, research, writing |
+| LLaMA | Meta | Open-source family of language models | Customizable and accessible for developers | Research, AI development, experimentation |
+| Mistral | Mistral AI | Efficient and lightweight models | High performance with lower resource requirements | AI applications, assistants, and research |
